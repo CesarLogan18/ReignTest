@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReignTest</string>
+    // main
+    <string name="authorAndDateTemplate">%1$s - %2$s</string>
+    <string name="dialog_offline_title">Alert</string>
+    <string name="dialog_offline_msg">No connection or server does not respond. Local data will be shown</string>
+    <string name="feedBack_msg">The list is empty. Please pull to refresh</string>
+
+    // detail
+    <string name="detail_feedBack_msg">This Post does not contain an URL</string>
+</resources>
