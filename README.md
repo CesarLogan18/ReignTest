@@ -6,6 +6,7 @@ Android min sdk 24.
 Main module implements MVVM.
 
 App use room for database.
+
 App use retrofit for networking.
 
 UI is designed with ConstraintLayout.
