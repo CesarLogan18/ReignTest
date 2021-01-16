@@ -11,6 +11,6 @@ App use retrofit for networking.
 
 UI is designed with ConstraintLayout.
 
-App follows solid principles and clean arquitecture features.
+App follows solid principles and clean architecture features.
 
 You will find .apk file in the root for testing
